@@ -5,7 +5,7 @@ Vitor Couto Victorino - RM554965
 # SISTEMA DE MONITORAMENTO DE TEMPERATURA E EMERGÊNCIA BLUE REEF
 
 ## Sobre
-Este é um protótipo de monitoramento de temperatura aquática usando um microcontrolador Arduino Uno, o sistema em si requere informações de temperatura e exibe no serial para visualização. Incluso nesse protótipo, temos uma configuração de emergência em caso de anomalias críticas em temperatura da água, podendo ser causadas por processos naturais ou antropológicos.
+Este é um protótipo de um sistema de monitoramento de temperatura aquática usando um microcontrolador Arduino Uno, o sistema em si requere informações de temperatura e exibe no serial para visualização. Incluso nesse protótipo, temos uma configuração de emergência em caso de anomalias críticas em temperatura da água, podendo ser causadas por processos naturais ou antropológicos.
 
 ## Funcionalidades
  - Medição da temperatura da água
