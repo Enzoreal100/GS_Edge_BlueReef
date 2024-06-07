@@ -1,5 +1,11 @@
-Nomes: Enzo Gaião Real - RM557943
+Nomes: 
+
+Enzo Gaião Real - RM557943
+
+
 Gustavo Pasquini Lucas - RM555454
+
+
 Vitor Couto Victorino - RM554965
 
 # SISTEMA DE MONITORAMENTO DE TEMPERATURA E EMERGÊNCIA BLUE REEF
@@ -76,3 +82,11 @@ Pino PWM -> Pino digital PWM 5 (podendo ser alterado por qualquer outro pino na 
 
 Pino VCC -> VCC da Protoboard 2
 Pino GND -> GND da Protoboard 2 ligado por um resistor de 100R
+
+## Link para o simulador e vídeo explicativo
+
+Simulador: https://wokwi.com/projects/399272974141109249
+
+Vídeo: https://youtu.be/-L5Qj0GAecQ
+
+
